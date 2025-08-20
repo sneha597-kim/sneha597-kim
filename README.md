@@ -22,7 +22,7 @@ Mahatma Gandhi Institute of Technology
 ## 🛠️ Skills
 
 **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
+![Java](https://img.shields.io/badge/Java-Intermediate-orange?logo=java)
 ![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)
 ![C](https://img.shields.io/badge/C-Intermediate-success?logo=c)
 ![R](https://img.shields.io/badge/R-Basic-lightgrey?logo=r)
