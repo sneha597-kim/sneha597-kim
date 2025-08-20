@@ -7,8 +7,8 @@
 ---
 
 ## 🔗 Connect with Me
-[![Static Badge](https://img.shields.io/badge/Linkedin-Profile-blue%3Flogo%3Dlinkedin)](https://linkedin.com/in/sneha-latha-9425892a2)
-[![Static Badge](https://img.shields.io/badge/GitHub-Profile-black%3Flogo%3Dgithub)](https://github.com/sneha597-kim)
+[![Static Badge](https://img.shields.io/badge/Linkedin-Profile-blue?logo=linkedin)](https://linkedin.com/in/sneha-latha-9425892a2)
+[![Static Badge](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sneha597-kim)
 
 ---
 
