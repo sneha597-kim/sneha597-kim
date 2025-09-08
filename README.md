@@ -79,7 +79,7 @@ Data Structures & Algorithms | Object-Oriented Programming | Machine Learning
 - 💻 C Programming – Cisco Networking Academy | Great Learning  
 - 🌐 JavaScript – Cisco Networking Academy  
 - 📊 Deloitte Australia Data Analytics Job Simulation – Forage (Apr 2025)  
-- 🎤 Poster Presentation on **Artificial Intelligence** – *2nd Place*  
+- 🎤 Poster Presentation on **Artificial Intelligence** – *2nd Place*
 
 ---
 
@@ -88,5 +88,11 @@ Data Structures & Algorithms | Object-Oriented Programming | Machine Learning
 - Leadership, Analytical Thinking, and Effective Communication  
 
 ---
+### 📊 GitHub Stats
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneha597-kim&show_icons=true&theme=radical)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha597-kim&layout=compact&theme=radical)
+
 
 ✨ *Always open to exciting opportunities in Software Development, Data Science, and Full-Stack Engineering!*  
